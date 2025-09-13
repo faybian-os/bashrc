@@ -3,7 +3,7 @@
 # File_Type: '.sh'
 # Squash_Source: 'c3c94ba38425135a53c45b7512332b37321a8eda'
 
-ALSH_VERSION="beta-0.45.06"
+ALSH_VERSION="beta-2.00.00"
 TEXTC_DIRECTORY="$HOME/.alfe.sh/FaybianScripts/utils"
 
 # --- safe-textc wrapper ---------------------------------------------
